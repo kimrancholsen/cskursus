@@ -46,9 +46,12 @@ namespace TestApplikation
             Console.WriteLine(momsPct.ToString());
 
             //modulus
-            
+
+            // ************************************************************
+            // Summering
+            // ************************************************************
+
 
 
         }
-    }
 }

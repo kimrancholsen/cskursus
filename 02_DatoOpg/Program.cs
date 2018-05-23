@@ -29,7 +29,6 @@ namespace _02_DatoOpg
             TimeSpan diff1 = d3.Subtract(d2);
             Console.WriteLine(diff1.ToString());
 
-
             TimeSpan t2;
             t2 = new TimeSpan(0, 16, 0, 0);
             Console.WriteLine(t2);
