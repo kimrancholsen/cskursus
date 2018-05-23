@@ -43,6 +43,7 @@ namespace TestApplikation
 
             //konstanter
             const double momsPct = 0.25; //bør defineres i en fil eller db
+            Console.WriteLine(momsPct.ToString());
 
             //modulus
             

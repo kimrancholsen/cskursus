@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Variabler
 {
-    enum FilTyper
+    public enum FilTyper
     {
         csv, pdf, txt
 
     }
 
-    struct Person
+    public struct Person
     {
         public int Id;
         public string Navn;
@@ -52,11 +48,7 @@ namespace Variabler
             Person p = new Person();
             p.Id = 1;
             p.Navn = "Mikkel";
-            Console.WriteLine(p.Navn.ToString());
-
-
-
-
+            Console.WriteLine(p.Navn);
 
         }
     }
