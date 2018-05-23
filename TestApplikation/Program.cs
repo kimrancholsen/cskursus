@@ -42,7 +42,7 @@ namespace TestApplikation
             Console.WriteLine(ts.TotalDays.ToString());
 
             //konstanter
-            const double momsPct = 0.25 //bør defineres i en fil eller db
+            const double momsPct = 0.25; //bør defineres i en fil eller db
 
             //modulus
             

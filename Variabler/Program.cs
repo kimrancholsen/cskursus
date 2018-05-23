@@ -9,7 +9,13 @@ namespace Variabler
     enum FilTyper
     {
         csv, pdf, txt
-            
+
+    }
+
+    struct Person
+    {
+        public int Id;
+        public string Navn;
     }
     class Program
     {
@@ -31,10 +37,10 @@ namespace Variabler
 
             //Pkt. 3 - enum defineret under namespace
 
-        FilTyper ft = FilTyper.csv;
-        Console.WriteLine(ft);
-        int r = (int)ft;
-        Console.WriteLine(r);
+            FilTyper ft = FilTyper.csv;
+            Console.WriteLine(ft);
+            int r = (int)ft;
+            Console.WriteLine(r);
 
             //Pkt. 4
             DateTime dt = DateTime.Now;
@@ -43,11 +49,15 @@ namespace Variabler
             Console.WriteLine(dt.ToString("s"));
 
             //Pkt. 5
+            Person p = new Person();
+            p.Id = 1;
+            p.Navn = "Mikkel";
+            Console.WriteLine(p.Navn.ToString());
 
 
 
 
 
         }
-}
+    }
 }
