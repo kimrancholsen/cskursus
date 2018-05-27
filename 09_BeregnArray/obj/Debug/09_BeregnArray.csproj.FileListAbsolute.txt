@@ -1,0 +1,7 @@
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\obj\Debug\09_BeregnArray.csprojResolveAssemblyReference.cache
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\obj\Debug\09_BeregnArray.csproj.CoreCompileInputs.cache
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\bin\Debug\09_BeregnArray.exe.config
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\bin\Debug\09_BeregnArray.exe
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\bin\Debug\09_BeregnArray.pdb
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\obj\Debug\09_BeregnArray.exe
+C:\Users\B89758\source\repos\cskursus-master\09_BeregnArray\obj\Debug\09_BeregnArray.pdb
