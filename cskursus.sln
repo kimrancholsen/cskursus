@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SmåMetoder", "06_SmåMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Overload", "07_Overload\07_Overload.csproj", "{63285C27-ECC5-4104-A7C3-51995CDDEA97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ForskelPåClassStruct", "08_ForskelPåClassStruct\08_ForskelPåClassStruct.csproj", "{CF1649B7-C260-4C52-9123-A7578E7AA43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_BeregnArray", "09_BeregnArray\09_BeregnArray.csproj", "{ECC4DF6E-B1B2-4CB6-9E7E-B597738565B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{63285C27-ECC5-4104-A7C3-51995CDDEA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63285C27-ECC5-4104-A7C3-51995CDDEA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63285C27-ECC5-4104-A7C3-51995CDDEA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1649B7-C260-4C52-9123-A7578E7AA43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1649B7-C260-4C52-9123-A7578E7AA43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1649B7-C260-4C52-9123-A7578E7AA43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1649B7-C260-4C52-9123-A7578E7AA43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC4DF6E-B1B2-4CB6-9E7E-B597738565B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC4DF6E-B1B2-4CB6-9E7E-B597738565B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC4DF6E-B1B2-4CB6-9E7E-B597738565B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC4DF6E-B1B2-4CB6-9E7E-B597738565B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
