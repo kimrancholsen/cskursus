@@ -5,3 +5,9 @@ C:\Users\B89758\source\repos\cskursus-master\08_ForskelPåClassStruct\bin\Debug\
 C:\Users\B89758\source\repos\cskursus-master\08_ForskelPåClassStruct\bin\Debug\08_ForskelPåClassStruct.pdb
 C:\Users\B89758\source\repos\cskursus-master\08_ForskelPåClassStruct\obj\Debug\08_ForskelPåClassStruct.exe
 C:\Users\B89758\source\repos\cskursus-master\08_ForskelPåClassStruct\obj\Debug\08_ForskelPåClassStruct.pdb
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\bin\Debug\08_ForskelPåClassStruct.exe.config
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\bin\Debug\08_ForskelPåClassStruct.exe
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\bin\Debug\08_ForskelPåClassStruct.pdb
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\obj\Debug\08_ForskelPåClassStruct.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\obj\Debug\08_ForskelPåClassStruct.exe
+C:\Users\admin\Source\Repos\cskursus\08_ForskelPåClassStruct\obj\Debug\08_ForskelPåClassStruct.pdb
