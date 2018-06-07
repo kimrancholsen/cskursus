@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_PolymorfiPerson", "17_Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_PolymorfiDyr", "18_PolymorfiDyr\18_PolymorfiDyr.csproj", "{F630ECB9-D0A7-40A6-A03E-4A9463AE098D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_SimpelFejlhåndtering", "19_SimpelFejlhåndtering\19_SimpelFejlhåndtering.csproj", "{F3A158FB-C6FC-4146-8BDF-CEDADCBE9D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_EgenException", "20_EgenException\20_EgenException.csproj", "{17C8722A-AAF0-4F29-9D23-CD85AC68512F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{F630ECB9-D0A7-40A6-A03E-4A9463AE098D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F630ECB9-D0A7-40A6-A03E-4A9463AE098D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F630ECB9-D0A7-40A6-A03E-4A9463AE098D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A158FB-C6FC-4146-8BDF-CEDADCBE9D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A158FB-C6FC-4146-8BDF-CEDADCBE9D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A158FB-C6FC-4146-8BDF-CEDADCBE9D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A158FB-C6FC-4146-8BDF-CEDADCBE9D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C8722A-AAF0-4F29-9D23-CD85AC68512F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C8722A-AAF0-4F29-9D23-CD85AC68512F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C8722A-AAF0-4F29-9D23-CD85AC68512F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C8722A-AAF0-4F29-9D23-CD85AC68512F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
