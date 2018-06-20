@@ -23,7 +23,7 @@ namespace _34_Lambda
             Console.WriteLine("....");
             a.ForEach((i) => { Console.WriteLine(i); });
             Console.WriteLine("----");
-            a.ForEach((i) => Console.WriteLine(i));
+            a.ForEach(i => Console.WriteLine(i));
 
 
 
